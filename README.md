@@ -2,6 +2,9 @@
 
 Chào mừng các đội ngũ sáng lập trẻ đến với không gian lưu trữ và quản lý dự án Capstone cuối khóa! Đây là nơi nhóm của bạn sẽ số hóa ý tưởng, xây dựng giải pháp công nghệ và chuẩn bị "hồ sơ gọi vốn" cho ngày hội **Demo Day (Future Tech Showcase)**.
 
+<img width="1536" height="1024" alt="shtp-stem-challenge" src="https://github.com/user-attachments/assets/eea2a8a9-afba-4b03-9983-fc2c058ee552" />
+
+
 ---
 
 ## 🛠️ HƯỚNG DẪN DÀNH CHO HỌC SINH (ĐỌC KỸ TRƯỚC KHI LÀM)
