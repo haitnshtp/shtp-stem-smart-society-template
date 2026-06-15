@@ -17,9 +17,9 @@ Chào mừng các đội ngũ sáng lập trẻ đến với không gian lưu tr
 
 | Tuần | Công việc cần làm | Thư mục cần cập nhật trên GitHub |
 | :--- | :--- | :--- |
-| **Tuần 1** | **Brainstorm ý tưởng & Vẽ sơ đồ Tư duy hệ thống**<br>- Phân chia 5 vai trò trong nhóm.<br>- Chọn 1 vấn đề lớn của xã hội (Ô nhiễm, Giao thông, Y tế...).<br>- Vẽ sơ đồ nguyên nhân - hậu quả. | 📁 Upload ảnh sơ đồ vào thư mục: `/research_system`<br>📝 Điền thông tin thành viên ở mục **1** và **2** phía dưới. |
-| **Tuần 2** | **Thiết kế mô hình Startup & Giải pháp công nghệ**<br>- Đặt tên Startup, Slogan, xác định khách hàng.<br>- Đề xuất giải pháp kết hợp các công nghệ (AI, Robot, IoT...).<br>- Tự chấm điểm ý tưởng theo thang điểm 50. | 📝 Cập nhật chi tiết giải pháp và công nghệ tại mục **3** và **4** phía dưới. |
-| **Tuần 3** | **Vẽ phối cảnh Xã hội thông minh & Hoàn thiện Slide**<br>- Hoàn thiện Bản vẽ phối cảnh Xã hội thông minh 2045.<br>- Tổng hợp phần "Tri thức mới khám phá".<br>- Chuẩn bị Slide thuyết trình 15 phút cho Demo Day. | 📁 Upload bản vẽ vào thư mục: `/design_visuals`<br>📁 Upload slide báo cáo (PDF) vào: `/pitch_deck`<br>📝 Hoàn thiện toàn bộ các mục còn lại phía dưới. |
+| **Tuần 1 (14/6)** | **Brainstorm ý tưởng & Vẽ sơ đồ Tư duy hệ thống**<br>- Phân chia 5 vai trò trong nhóm.<br>- Chọn 1 vấn đề lớn của xã hội (Ô nhiễm, Giao thông, Y tế...).<br>- Vẽ sơ đồ nguyên nhân - hậu quả. | 📁 Upload ảnh sơ đồ vào thư mục: `/research_system`<br>📝 Điền thông tin thành viên ở mục **1** và **2** phía dưới. |
+| **Tuần 2 (21/6)** | **Thiết kế mô hình Startup & Giải pháp công nghệ**<br>- Đặt tên Startup, Slogan, xác định khách hàng.<br>- Đề xuất giải pháp kết hợp các công nghệ (AI, Robot, IoT...).<br>- Tự chấm điểm ý tưởng theo thang điểm 50. | 📝 Cập nhật chi tiết giải pháp và công nghệ tại mục **3** và **4** phía dưới. |
+| **Tuần 3 (28/6)** | **Vẽ phối cảnh Xã hội thông minh & Hoàn thiện Slide**<br>- Hoàn thiện Bản vẽ phối cảnh Xã hội thông minh 2045.<br>- Tổng hợp phần "Tri thức mới khám phá".<br>- Chuẩn bị Slide thuyết trình 15 phút cho Demo Day. | 📁 Upload bản vẽ vào thư mục: `/design_visuals`<br>📁 Upload slide báo cáo (PDF) vào: `/pitch_deck`<br>📝 Hoàn thiện toàn bộ các mục còn lại phía dưới. |
 
 *Note: Sau khi nhóm của bạn đã hiểu rõ quy trình, hãy XÓA TOÀN BỘ **PHẦN I** này đi và chỉ để lại **PHẦN II** dưới đây làm trang chủ cho dự án của nhóm.*
 
